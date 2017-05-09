@@ -25,9 +25,11 @@
 
 ### 及时聊天桌面应用项目
 
-- 技术架构  
+- 技术架构
+
   -初期：angular1.x + sqlize + node-webkit
   -后期：react + redux + react-router + sqlize + node-webkit 开始启用es6代码 采用babel转换
+
 - angularjs是我接触的第一个单页面应用框架 双向绑定特性吸引力一大批人 不过数据脏检查机制在应用规模大了之后出现比较明显的性能下降问题
 - react+redux是当时比较新鲜的一套技术组合 redux参考flux的数据状态机类库  给人一种新世界的感官 规范整理数据流
 - 有出现过nw占用过多内存bug 原因是nw脏内存 申请不释放  需要手动调用释放内存 1.8后的版本后修复
