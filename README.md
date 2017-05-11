@@ -59,3 +59,12 @@
 - 采用sass开发
 - pm2部署node后台应用
 - 学习go语言  看好go
+
+### react-native尝试开发
+
+- 只完成了测试版本 并未上线
+- 生态还不完善 有些库存在问题或者无人维护
+- 数据存储用realm
+- https://github.com/chunmu/react-native-musicplayer
+- 完成了部分 了解大概  未深入
+
